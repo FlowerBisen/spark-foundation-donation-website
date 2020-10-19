@@ -1,0 +1,43 @@
+main{
+    background-image: linear-gradient(to right,aqua,red);
+    
+}
+
+h1{
+    font-size:300%;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+
+h3{
+    font-family:Times New Roman;
+    color: darkorange;
+    text-align: center;
+    font-size: 150%;
+}
+
+.col-6{
+    
+    
+    
+    
+    
+}
+
+.col-6{
+    
+    width: 50%;
+    
+    
+  
+    
+}
+img{
+    display: inline-block;
+}
+
+div{
+    box-sizing: border-box;
+    display: inline-block;
+}
